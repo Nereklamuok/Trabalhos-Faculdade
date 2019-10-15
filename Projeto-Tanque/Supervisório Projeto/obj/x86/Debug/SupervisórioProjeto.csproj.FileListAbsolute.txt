@@ -1,0 +1,22 @@
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Debug\ExNivel.exe
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Debug\ExNivel.pdb
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\bin\Debug\ExNivel.exe
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\bin\Debug\ExNivel.pdb
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\bin\Debug\EasyModbus.dll
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Debug\SupervisórioProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Debug\ExNivel.Form1.resources
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Debug\ExNivel.Properties.Resources.resources
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Debug\SupervisórioProjeto.csproj.GenerateResource.Cache
+C:\Users\gnlga\Desktop\projetofinal\Supervisório Projeto\obj\x86\Debug\ExNivel.exe
+C:\Users\gnlga\Desktop\projetofinal\Supervisório Projeto\obj\x86\Debug\ExNivel.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\bin\Debug\ExNivel.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\bin\Debug\ExNivel.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\bin\Debug\EasyModbus.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\obj\x86\Debug\SupervisórioProjeto.csprojResolveAssemblyReference.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\obj\x86\Debug\ExNivel.Form1.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\obj\x86\Debug\ExNivel.Properties.Resources.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\obj\x86\Debug\SupervisórioProjeto.csproj.GenerateResource.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\obj\x86\Debug\SupervisórioProjeto.csproj.CoreCompileInputs.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\obj\x86\Debug\SupervisórioProjeto.csproj.CopyComplete
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\obj\x86\Debug\ExNivel.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Projeto-Tanque\Supervisório Projeto\obj\x86\Debug\ExNivel.pdb

@@ -1,0 +1,40 @@
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\bin\Release\RedesNeurais.exe
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\bin\Release\RedesNeurais.pdb
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\obj\Release\ResolveAssemblyReference.cache
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\obj\Release\RedesNeurais.Form1.resources
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\obj\Release\RedesNeurais.Form2.resources
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\obj\Release\RedesNeurais.Properties.Resources.resources
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\obj\Release\GenerateResource.read.1.tlog
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\obj\Release\GenerateResource.write.1.tlog
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\obj\Release\RedesNeurais.exe
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais\RedesNeurais\obj\Release\RedesNeurais.pdb
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.exe
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.pdb
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\bin\Release\RedesNeurais.exe
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\bin\Release\RedesNeurais.pdb
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\ResolveAssemblyReference.cache
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.Form1.resources
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.Form2.resources
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.Properties.Resources.resources
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\GenerateResource.read.1.tlog
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\GenerateResource.write.1.tlog
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.exe
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.pdb
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\bin\Release\RedesNeurais.exe
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\bin\Release\RedesNeurais.pdb
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\ResolveAssemblyReference.cache
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.Form1.resources
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.Form2.resources
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.Properties.Resources.resources
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\GenerateResource.read.1.tlog
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 5 - RNA\RedesNeurais Muriell\RedesNeurais\obj\Release\GenerateResource.write.1.tlog
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\bin\Release\RedesNeurais.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\bin\Release\RedesNeurais.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.csprojAssemblyReference.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.Form1.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.Form2.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.Properties.Resources.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.csproj.GenerateResource.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.csproj.CoreCompileInputs.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\RedesNeurais Muriell\RedesNeurais\obj\Release\RedesNeurais.pdb

@@ -1,0 +1,42 @@
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\bin\Debug\FuzzyRobot.exe
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\bin\Debug\FuzzyRobot.pdb
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\bin\Debug\AForge.dll
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\bin\Debug\AForge.Fuzzy.dll
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\obj\Debug\FuzzyAGV.MainForm.resources
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\obj\Debug\FuzzyRobot.exe
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV\obj\Debug\FuzzyRobot.pdb
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\obj\Debug\FuzzyRobot.exe
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\obj\Debug\FuzzyRobot.pdb
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\bin\Debug\FuzzyRobot.exe
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\bin\Debug\FuzzyRobot.pdb
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\bin\Debug\AForge.dll
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\bin\Debug\AForge.Fuzzy.dll
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\obj\Debug\FuzzyAGV.MainForm.resources
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\FuzzyAGV-Prof\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\bin\Debug\FuzzyRobot.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\bin\Debug\FuzzyRobot.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\bin\Debug\AForge.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\bin\Debug\AForge.Fuzzy.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\obj\Debug\FuzzyAGV.csprojResolveAssemblyReference.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\obj\Debug\FuzzyAGV.MainForm.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\obj\Debug\FuzzyAGV.csproj.GenerateResource.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\obj\Debug\FuzzyAGV.csproj.CoreCompileInputs.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\obj\Debug\FuzzyAGV.csproj.CopyComplete
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\obj\Debug\FuzzyRobot.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV-Prof\obj\Debug\FuzzyRobot.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\bin\Debug\FuzzyRobot.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\bin\Debug\FuzzyRobot.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\bin\Debug\AForge.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\bin\Debug\AForge.Fuzzy.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\obj\Debug\FuzzyAGV.MainForm.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\obj\Debug\FuzzyAGV.csproj.GenerateResource.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\obj\Debug\FuzzyAGV.csproj.CoreCompileInputs.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\obj\Debug\FuzzyAGV.csproj.CopyComplete
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\obj\Debug\FuzzyRobot.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\obj\Debug\FuzzyRobot.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\FuzzyAGV_GabrielNavarroLopes\obj\Debug\FuzzyAGV.csprojAssemblyReference.cache

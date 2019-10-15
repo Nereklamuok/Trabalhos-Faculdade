@@ -1,0 +1,49 @@
+C:\Documents and Settings\Administrator\Desktop\TSP-aluno\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\TSP-aluno\obj\Debug\TSP.MainForm.resources
+C:\Documents and Settings\Administrator\Desktop\TSP-aluno\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\TSP-aluno\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\TSP-aluno\bin\Debug\TSP.exe
+C:\Documents and Settings\Administrator\Desktop\TSP-aluno\bin\Debug\TSP.pdb
+C:\Documents and Settings\Administrator\Desktop\TSP-aluno\obj\Debug\TSP.exe
+C:\Documents and Settings\Administrator\Desktop\TSP-aluno\obj\Debug\TSP.pdb
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 3 - Aplicacao Exemplo de GA\TSP-aluno\obj\Debug\TSP.exe
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 3 - Aplicacao Exemplo de GA\TSP-aluno\obj\Debug\TSP.pdb
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 3 - Aplicacao Exemplo de GA\TSP-aluno\bin\Debug\TSP.exe
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 3 - Aplicacao Exemplo de GA\TSP-aluno\bin\Debug\TSP.pdb
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 3 - Aplicacao Exemplo de GA\TSP-aluno\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 3 - Aplicacao Exemplo de GA\TSP-aluno\obj\Debug\TSP.MainForm.resources
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 3 - Aplicacao Exemplo de GA\TSP-aluno\obj\Debug\GenerateResource.read.1.tlog
+E:\Desktop\Aulas2017\a5_IAAE9 - IA\_Aulas Muriell\Aula 3 - Aplicacao Exemplo de GA\TSP-aluno\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\TSP-ProfSol\obj\Debug\TSP.exe
+C:\Documents and Settings\Administrator\Desktop\TSP-ProfSol\obj\Debug\TSP.pdb
+C:\Documents and Settings\Administrator\Desktop\TSP-ProfSol\bin\Debug\TSP.exe
+C:\Documents and Settings\Administrator\Desktop\TSP-ProfSol\bin\Debug\TSP.pdb
+C:\Documents and Settings\Administrator\Desktop\TSP-ProfSol\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\TSP-ProfSol\obj\Debug\TSP.MainForm.resources
+C:\Documents and Settings\Administrator\Desktop\TSP-ProfSol\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\TSP-ProfSol\obj\Debug\GenerateResource.write.1.tlog
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-ProfSol\obj\Debug\TSP.exe
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-ProfSol\obj\Debug\TSP.pdb
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-ProfSol\bin\Debug\TSP.exe
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-ProfSol\bin\Debug\TSP.pdb
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-ProfSol\obj\Debug\ResolveAssemblyReference.cache
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-ProfSol\obj\Debug\TSP.MainForm.resources
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-ProfSol\obj\Debug\GenerateResource.read.1.tlog
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-ProfSol\obj\Debug\GenerateResource.write.1.tlog
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-Aluno\obj\Debug\TSP.exe
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-Aluno\obj\Debug\TSP.pdb
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-Aluno\bin\Debug\TSP.exe
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-Aluno\bin\Debug\TSP.pdb
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-Aluno\obj\Debug\ResolveAssemblyReference.cache
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-Aluno\obj\Debug\TSP.MainForm.resources
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-Aluno\obj\Debug\GenerateResource.read.1.tlog
+F:\Desktop\Aulas2018\2_IAAE9 - IA\_Aulas Muriell\Aula 3 - GA\Trabalho TSP\TSP-Aluno\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\TSP-Aluno\bin\Debug\TSP.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\TSP-Aluno\bin\Debug\TSP.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\TSP-Aluno\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\TSP-Aluno\obj\Debug\TSP.MainForm.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\TSP-Aluno\obj\Debug\TSP.csproj.GenerateResource.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\TSP-Aluno\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\TSP-Aluno\obj\Debug\TSP.csproj.CopyComplete
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\TSP-Aluno\obj\Debug\TSP.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\TSP-Aluno\obj\Debug\TSP.pdb

@@ -1,0 +1,79 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ExNivel\bin\Debug\ExNivel.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ExNivel\bin\Debug\ExNivel.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ExNivel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ExNivel\obj\x86\Debug\ExNivel.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ExNivel\obj\x86\Debug\ExNivel.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ExNivel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ExNivel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ExNivel\obj\x86\Debug\ExNivel.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\ExNivel\obj\x86\Debug\ExNivel.pdb
+C:\Documents and Settings\Administrator\Desktop\ExNivel\ExNivel\obj\x86\Debug\ExNivel.exe
+C:\Documents and Settings\Administrator\Desktop\ExNivel\ExNivel\obj\x86\Debug\ExNivel.pdb
+C:\Users\aluno\Desktop\ExNivel\ExNivel\obj\x86\Debug\ExNivel.exe
+C:\Users\aluno\Desktop\ExNivel\ExNivel\obj\x86\Debug\ExNivel.pdb
+C:\Users\aluno\Desktop\ExNivel\ExNivel\bin\Debug\ExNivel.exe
+C:\Users\aluno\Desktop\ExNivel\ExNivel\bin\Debug\ExNivel.pdb
+C:\Users\aluno\Desktop\ExNivel\ExNivel\obj\x86\Debug\ExNivel.Form1.resources
+C:\Users\aluno\Desktop\ExNivel\ExNivel\obj\x86\Debug\ExNivel.Properties.Resources.resources
+C:\Users\aluno\Desktop\ExNivel\ExNivel\obj\x86\Debug\ExNivel.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ExNivel\ExNivel\obj\x86\Debug\ExNivel.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ExNivel\ExNivel\bin\Debug\EasyModbus.dll
+F:\7º semestre\LAB 8 (Muriel)\NIVEL\TRABSETE\ExNivel\obj\x86\Debug\ExNivel.exe
+F:\7º semestre\LAB 8 (Muriel)\NIVEL\TRABSETE\ExNivel\obj\x86\Debug\ExNivel.pdb
+F:\7º semestre\LAB 8 (Muriel)\NIVEL\TRABSETE\ExNivel\obj\x86\Debug\ExNivel.csprojResolveAssemblyReference.cache
+F:\7º semestre\LAB 8 (Muriel)\NIVEL\TRABSETE\ExNivel\obj\x86\Debug\ExNivel.Form1.resources
+F:\7º semestre\LAB 8 (Muriel)\NIVEL\TRABSETE\ExNivel\obj\x86\Debug\ExNivel.Properties.Resources.resources
+F:\7º semestre\LAB 8 (Muriel)\NIVEL\TRABSETE\ExNivel\obj\x86\Debug\ExNivel.csproj.GenerateResource.Cache
+F:\7º semestre\LAB 8 (Muriel)\NIVEL\TRABSETE\ExNivel\bin\Debug\ExNivel.exe
+F:\7º semestre\LAB 8 (Muriel)\NIVEL\TRABSETE\ExNivel\bin\Debug\ExNivel.pdb
+F:\7º semestre\LAB 8 (Muriel)\NIVEL\TRABSETE\ExNivel\bin\Debug\EasyModbus.dll
+C:\Users\aluno\Desktop\NivelArduino\ExNivel\obj\x86\Debug\ExNivel.exe
+C:\Users\aluno\Desktop\NivelArduino\ExNivel\obj\x86\Debug\ExNivel.pdb
+C:\Users\aluno\Desktop\NivelArduino\ExNivel\obj\x86\Debug\ExNivel.csprojResolveAssemblyReference.cache
+F:\NivelArduino\ExNivel\obj\x86\Debug\ExNivel.exe
+F:\NivelArduino\ExNivel\obj\x86\Debug\ExNivel.pdb
+F:\NivelArduino\ExNivel\bin\Debug\ExNivel.exe
+F:\NivelArduino\ExNivel\bin\Debug\ExNivel.pdb
+F:\NivelArduino\ExNivel\bin\Debug\EasyModbus.dll
+F:\NivelArduino\ExNivel\obj\x86\Debug\ExNivel.csprojResolveAssemblyReference.cache
+F:\NivelArduino\ExNivel\obj\x86\Debug\ExNivel.Form1.resources
+F:\NivelArduino\ExNivel\obj\x86\Debug\ExNivel.Properties.Resources.resources
+F:\NivelArduino\ExNivel\obj\x86\Debug\ExNivel.csproj.GenerateResource.Cache
+F:\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.exe
+F:\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.pdb
+F:\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.csprojResolveAssemblyReference.cache
+F:\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.Form1.resources
+F:\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.Properties.Resources.resources
+F:\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.csproj.GenerateResource.Cache
+F:\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\bin\Debug\ExNivel.exe
+F:\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\bin\Debug\ExNivel.pdb
+F:\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\bin\Debug\EasyModbus.dll
+C:\Users\aluno\Desktop\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.exe
+C:\Users\aluno\Desktop\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.pdb
+C:\Users\aluno\Desktop\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\bin\Debug\ExNivel.exe
+C:\Users\aluno\Desktop\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\bin\Debug\ExNivel.pdb
+C:\Users\aluno\Desktop\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\bin\Debug\EasyModbus.dll
+C:\Users\aluno\Desktop\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.Form1.resources
+C:\Users\aluno\Desktop\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.Properties.Resources.resources
+C:\Users\aluno\Desktop\NivelArduino\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.csproj.GenerateResource.Cache
+C:\Users\Reinaldo\Desktop\Lab 8\ExNivelC#\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.exe
+C:\Users\Reinaldo\Desktop\Lab 8\ExNivelC#\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.pdb
+C:\Users\Reinaldo\Desktop\Lab 8\ExNivelC#\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\bin\Debug\ExNivel.exe
+C:\Users\Reinaldo\Desktop\Lab 8\ExNivelC#\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\bin\Debug\ExNivel.pdb
+C:\Users\Reinaldo\Desktop\Lab 8\ExNivelC#\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\bin\Debug\EasyModbus.dll
+C:\Users\Reinaldo\Desktop\Lab 8\ExNivelC#\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.csprojResolveAssemblyReference.cache
+C:\Users\Reinaldo\Desktop\Lab 8\ExNivelC#\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.Form1.resources
+C:\Users\Reinaldo\Desktop\Lab 8\ExNivelC#\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.Properties.Resources.resources
+C:\Users\Reinaldo\Desktop\Lab 8\ExNivelC#\NivelArduino - Fabio, Gabriel Navarro, Igor Maciel\obj\x86\Debug\ExNivel.csproj.GenerateResource.Cache
+C:\Users\Reinaldo\Desktop\Lab 8\supervisorio PID arduino\Nivel arduino C#\obj\x86\Debug\ExNivel.exe
+C:\Users\Reinaldo\Desktop\Lab 8\supervisorio PID arduino\Nivel arduino C#\obj\x86\Debug\ExNivel.pdb
+C:\Users\Reinaldo\Desktop\Lab 8\supervisorio PID arduino\Nivel arduino C#\obj\x86\Debug\ExNivel.csprojResolveAssemblyReference.cache
+C:\Users\Reinaldo\Desktop\Lab 8\supervisorio PID arduino\Nivel arduino C#\obj\x86\Debug\ExNivel.Form1.resources
+C:\Users\Reinaldo\Desktop\Lab 8\supervisorio PID arduino\Nivel arduino C#\obj\x86\Debug\ExNivel.Properties.Resources.resources
+C:\Users\Reinaldo\Desktop\Lab 8\supervisorio PID arduino\Nivel arduino C#\obj\x86\Debug\ExNivel.csproj.GenerateResource.Cache
+C:\Users\Reinaldo\Desktop\Lab 8\supervisorio PID arduino\Nivel arduino C#\bin\Debug\ExNivel.exe
+C:\Users\Reinaldo\Desktop\Lab 8\supervisorio PID arduino\Nivel arduino C#\bin\Debug\ExNivel.pdb
+C:\Users\Reinaldo\Desktop\Lab 8\supervisorio PID arduino\Nivel arduino C#\bin\Debug\EasyModbus.dll
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Debug\ExNivel.exe
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Debug\ExNivel.pdb

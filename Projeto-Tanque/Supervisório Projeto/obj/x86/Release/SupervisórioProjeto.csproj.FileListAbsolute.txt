@@ -1,0 +1,8 @@
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\bin\Release\ExNivel.exe
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\bin\Release\ExNivel.pdb
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\bin\Release\EasyModbus.dll
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Release\ExNivel.Form1.resources
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Release\ExNivel.Properties.Resources.resources
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Release\SupervisórioProjeto.csproj.GenerateResource.Cache
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Release\ExNivel.exe
+C:\Users\Reinaldo\Desktop\Projeto CLP\Supervisório Projeto\obj\x86\Release\ExNivel.pdb

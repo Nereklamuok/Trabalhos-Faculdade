@@ -1,0 +1,62 @@
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.dll.config
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\RNA_CancerMama.exe.config
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\RNA_CancerMama.exe
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\RNA_CancerMama.pdb
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.xml
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.csprojAssemblyReference.cache
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.Form1.resources
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.Properties.Resources.resources
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.csproj.GenerateResource.cache
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.csproj.CoreCompileInputs.cache
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.csproj.CopyComplete
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.exe
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.pdb
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\ExcelDataReader.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\ExcelDataReader.xml
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Genetic.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Math.Core.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Math.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Neuro.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Genetic.xml
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Math.xml
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Math.Core.xml
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Neuro.xml
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.IO.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.IO.xml
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Statistics.dll
+C:\Users\gnlga\source\repos\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Statistics.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.dll.config
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\RNA_CancerMama.exe.config
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\RNA_CancerMama.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\RNA_CancerMama.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Genetic.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.IO.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Math.Core.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Math.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Neuro.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Statistics.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\ExcelDataReader.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Genetic.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.IO.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Math.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Math.Core.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Neuro.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\Accord.Statistics.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\ExcelDataReader.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.csprojAssemblyReference.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.Form1.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.Properties.Resources.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.csproj.GenerateResource.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.csproj.CoreCompileInputs.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.csproj.CopyComplete
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\Proj_RNA\RNA_CancerMama\RNA_CancerMama\obj\Debug\RNA_CancerMama.pdb

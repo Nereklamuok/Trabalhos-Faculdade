@@ -1,0 +1,27 @@
+C:\Documents and Settings\Administrator\Desktop\PathPlanningIAA\PathPlanningIAA\bin\Debug\PathPlanningIAA.exe
+C:\Documents and Settings\Administrator\Desktop\PathPlanningIAA\PathPlanningIAA\bin\Debug\PathPlanningIAA.pdb
+C:\Documents and Settings\Administrator\Desktop\PathPlanningIAA\PathPlanningIAA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\PathPlanningIAA\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\PathPlanningIAA\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\PathPlanningIAA\PathPlanningIAA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\PathPlanningIAA\PathPlanningIAA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\PathPlanningIAA\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.exe
+C:\Documents and Settings\Administrator\Desktop\PathPlanningIAA\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Aluno\PathPlanningIAA\bin\Debug\PathPlanningIAA.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Aluno\PathPlanningIAA\bin\Debug\PathPlanningIAA.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Aluno\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.Form1.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Aluno\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.Properties.Resources.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Aluno\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.csproj.GenerateResource.Cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Aluno\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.csproj.CoreCompileInputs.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Aluno\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Aluno\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Aluno\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.csprojResolveAssemblyReference.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Gabriel Navarro Lopes\PathPlanningIAA\bin\Debug\PathPlanningIAA.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Gabriel Navarro Lopes\PathPlanningIAA\bin\Debug\PathPlanningIAA.pdb
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Gabriel Navarro Lopes\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.csprojResolveAssemblyReference.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Gabriel Navarro Lopes\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.Form1.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Gabriel Navarro Lopes\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.Properties.Resources.resources
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Gabriel Navarro Lopes\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.csproj.GenerateResource.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Gabriel Navarro Lopes\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.csproj.CoreCompileInputs.cache
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Gabriel Navarro Lopes\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.exe
+C:\Users\gnlga\Desktop\Exercícios e Projetos - ECA\PathPlanning IAA - Gabriel Navarro Lopes\PathPlanningIAA\obj\x86\Debug\PathPlanningIAA.pdb
